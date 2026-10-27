@@ -1,0 +1,6 @@
+{
+  "name": "HwaVerse ReaderWeb",
+  "description": "Platform baca Manhwa, Manga, dan Light Novel interaktif bergaya ruang kelas anime mint & forest-green dengan sinkronisasi progres real-time antar perangkat, sistem bookmark, dan riwayat baca.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
